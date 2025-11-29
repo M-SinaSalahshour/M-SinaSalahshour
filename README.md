@@ -1,4 +1,4 @@
-# Hello, I'm Magna 👋
+# Hello, I'm Sina 👋
 
 I’m a web developer, Blender artist, and tech enthusiast. I love building projects that are both functional and creative. When I’m not coding or modeling in Blender, you can probably find me playing volleyball or gaming.  
 
