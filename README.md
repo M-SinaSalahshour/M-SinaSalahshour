@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello, I'm Magna 👋
 
-<!--
-**M-SinaSalahshour/M-SinaSalahshour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web developer, Blender artist, and tech enthusiast. I love building projects that are both functional and creative. When I’m not coding or modeling in Blender, you can probably find me playing volleyball or gaming.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💻 Full-Stack Developer: Node.js, Express, React.js, JavaScript, MySQL  
+- 🖌 Blender Artist  
+- 🌐 Web Enthusiast: I enjoy working on subscription platforms, secure login systems, and interactive websites  
+- 🏐 Volleyball Player & Team Enthusiast  
+
+---
+
+## 🛠 Skills & Technologies
+
+**Programming & Web Development:**  
+JavaScript (Node.js, Express, React.js)  
+
+**Web Development:**  
+HTML, CSS, JavaScript, Node.js, Express, React.js, MySQL, REST APIs, Secure Authentication, Payment Gateways (Zarinpal)  
+
+**3D Design:**  
+Blender  
+
+---
+
+## 📫 Catch Up With Me
+- Email: **m.sina.salahshour@gmail.com**
+- 
+---
+
+Thanks for stopping by! Feel free to browse my repositories, reach out, or just say hi. Let’s create something awesome together! 🚀
